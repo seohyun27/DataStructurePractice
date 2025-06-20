@@ -4,7 +4,7 @@ This repository contains C language code learned during the Data Structures Prac
 
 
 
-## Contents of the Source Code
+## Contents
 
 #### Project1
 - Selection Sort
