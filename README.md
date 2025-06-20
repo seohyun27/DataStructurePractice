@@ -4,7 +4,7 @@ This repository contains C language code learned during the Data Structures Prac
 
 
 
-### Contents of the Source Code
+## Contents of the Source Code
 
 #### Project1
 - Selection Sort
@@ -70,6 +70,6 @@ This repository contains C language code learned during the Data Structures Prac
 
 
 
-### Additional Comments
+## Additional Comments
 1. This code was written as part of a school assignment and may contain errors.
 2. Source code labeled as "Code" refers to programs I initially wrote and later improved based on the professor's feedback.
