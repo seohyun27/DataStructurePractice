@@ -1,8 +1,7 @@
-# DataStructurePractice
+# Data Structure Practice
 This repository contains C language code learned during the Data Structures Practice class in 2-2.
 
-
-
+<br/>
 
 ## Contents
 
@@ -67,8 +66,7 @@ This repository contains C language code learned during the Data Structures Prac
 - Selection Sort, Insertion Sort, and Quick Sort
 - Performance Comparison of Sorting Algorithms
 
-
-
+<br/>
 
 ## Additional Comments
 1. This code was written as part of a school assignment and may contain errors.
